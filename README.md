@@ -1,4 +1,4 @@
-# dino_game_with_trained_agent_
+![game](https://github.com/user-attachments/assets/da9fb361-8a2e-4704-8d0b-6a623a5a8e5f)# dino_game_with_trained_agent_
 Dino Game Explanation
 The Dino Game is a simple browser-based game in which the player controls a dinosaur (Dino) that must jump over obstacles like cacti or avoid colliding with flying birds. The game starts automatically once the internet connection is lost, though you can play it anytime by triggering it through a browser's developer console. This Python version recreates the game using Pygame, with the addition of reinforcement learning (RL) training and other features.
 
@@ -52,6 +52,9 @@ Reward System: The agent receives positive rewards for jumping over obstacles su
 
 How to Train the RL Agent
 The train_agent.py script will train the agent over multiple episodes. The agent will gradually learn to play the game better by adjusting its policy to maximize the reward over time. You can modify the training script to change parameters like the number of episodes or the learning rate.
+
+
+![game](https://github.com/user-attachments/assets/1d063072-59fb-4937-afd9-73b7af77c698)
 
 
 
