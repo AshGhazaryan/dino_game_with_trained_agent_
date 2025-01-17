@@ -54,7 +54,7 @@ How to Train the RL Agent
 The train_agent.py script will train the agent over multiple episodes. The agent will gradually learn to play the game better by adjusting its policy to maximize the reward over time. You can modify the training script to change parameters like the number of episodes or the learning rate.
 
 
-![game](https://github.com/user-attachments/assets/1d063072-59fb-4937-afd9-73b7af77c698)
 
 
+![ScreenRecording2025-01-17at8 44 19PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c5ac895b-b953-448a-a6e2-8bf30aa6bae3)
 
